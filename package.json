@@ -1,0 +1,26 @@
+{
+  "name": "pll-api",
+  "version": "1.0.0",
+  "description": "Api to consume data of the premier lacrosse league",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3lement4ry/pll-api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "pll",
+    "lacrosse",
+    "api"
+  ],
+  "author": "3lement4ry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3lement4ry/pll-api/issues"
+  },
+  "homepage": "https://github.com/3lement4ry/pll-api#readme"
+}
